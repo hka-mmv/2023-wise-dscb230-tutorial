@@ -1,1 +1,1 @@
-# 2023-ws-dscb230-tutorial
+# 2023-wise-dscb230-tutorial
